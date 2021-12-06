@@ -1,0 +1,14 @@
+Searched word: aim
+Searched article tttt
+User login Nivi
+Article composed: Test
+User log out Nivi
+Admin login Taha
+Search history viewed
+User login Nivi
+Word composed: Testing
+User log out Nivi
+User login H
+Article composed: covid
+User log out H
+Admin login Taha
